@@ -1,5 +1,4 @@
-setInterval(updateBg, 1000);
-setInterval(updateText, 1000);
+init();
 
 function getTimeAsHex(){
     var date = new Date();
